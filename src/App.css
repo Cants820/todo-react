@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.taskInput {
+	margin-left: 3rem;
+	width: 50%;
+}
+
+
+.tasks {
+	display: inline-block;
+	margin-left: 1rem;
+}
+
+.todo {
+	border-radius: 30px;
+	margin-top: 1rem;
+	margin-left: 4rem;
+	width: 45%;
+	padding: 1rem;
+
+}
+
+.delete-btn {
+	float: right;
+}
+
+.taskapp {
+	height: 5%;
+	padding: 1rem;
+
+}
+
+.todotitle {
+	margin-left: 4rem;
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
